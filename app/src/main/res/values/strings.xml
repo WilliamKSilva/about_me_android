@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">William Kelvin</string>
+    <string name="yellow_star">Yellow star</string>
+    
+    <string name="bio">
+        I\'m a Software Developer working most with Web Frontend development and Mobile!
+        \n\n\nWith 2 years of work experience in React ecosystem, I feel very
+        comfortable to work in more complex projects that are using this kind of stack.
+        My focus now is to learn more deeply native android development to improve my projects
+        with hybrids techs like React Native and Flutter and maybe start to build some native android
+        Apps for fun.
+        \n\n\nMy goal in Software Development is to contribute in amazing projects where I can see
+        value on what we are building, I\'m passionate about writing code and I hope to follow in this
+        area for a long time.
+        \n\nFeel free to contact me by sending an Email: wilz.kelvin12@gmail.com
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
